@@ -143,3 +143,5 @@ pipe:///usr/bin/env streamlink --stdout --hls-live-edge 6 --ringbuffer-size 32M 
 pipe:///usr/bin/env streamlink --stdout --hls-live-edge 6 --ringbuffer-size 32M -4 --default-stream best --url https://www.youtube.com/watch?v=rw7bxTqkYYs
 #EXTINF:-1 tvg-name="TVH YOYO TV",TVH YOYO TV
 pipe:///usr/bin/env streamlink --stdout --hls-live-edge 6 --ringbuffer-size 32M -4 --default-stream best --url https://www.youtube.com/watch?v=EZdb54miUrY
+#EXTINF:-1 tvg-name="TVH TVBS 56",TVH TVBS 56
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://youtu.be/hP6_jfCFxyQ
