@@ -144,4 +144,4 @@ pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://www.
 #EXTINF:-1 tvg-name="TVH YOYO TV",TVH YOYO TV
 pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://www.youtube.com/watch?v=EZdb54miUrY
 #EXTINF:-1 tvg-name="TVH TVBS 56",TVH TVBS 56
-pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://youtu.be/hP6_jfCFxyQ
+pipe:///usr/bin/env streamlink --stdout --default-stream best --url https://www.youtube.com/watch?v=YvdcZ_jpLXE
